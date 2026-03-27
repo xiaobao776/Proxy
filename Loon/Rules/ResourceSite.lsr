@@ -44,14 +44,3 @@ DOMAIN,woog.nxog.eu.org
 
 #闪电
 DOMAIN,sd.sduc.site
-
-本地规则
-DOMAIN-KEYWORD,kkp.zhezhi.art,免费节点
-DOMAIN-KEYWORD,mock.forward1.workers.dev,香港节点
-DOMAIN-KEYWORD,emby.ichinosekotomi.com,免费节点
-DOMAIN-KEYWORD,kingemby.xyz,兜底策略
-DOMAIN-KEYWORD,embyp.ystel.cn,兜底策略
-DOMAIN-KEYWORD,tgsou.252035.xyz,香港节点
-DOMAIN-SUFFIX,wf.vban.xyz,免费节点
-DOMAIN-SUFFIX,link01.okemby.org,免费节点
-DOMAIN,greasyfork.org,香港节点 
